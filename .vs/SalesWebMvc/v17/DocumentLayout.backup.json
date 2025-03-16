@@ -11,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeToolTip": "SalesWebMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:40:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T16:40:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:40:42.2Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,9 +79,9 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SalesWebMvc\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T15:10:47.117Z",
+              "WhenOpened": "2025-03-16T16:40:33.54Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +92,9 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T14:17:22.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
-              "RelativeToolTip": "SalesWebMvc\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T18:30:23.136Z",
               "EditorCaption": ""
             }
           ]
