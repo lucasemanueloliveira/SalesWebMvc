@@ -3,60 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|c:\\users\\lucas\\source\\repos\\saleswebmvc\\saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948FB9B0-3E99-4750-B8FD-04FF7C2FBF38}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,182 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250316234410_OtherEntities.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs",
-              "RelativeToolTip": "SalesWebMvc\\Migrations\\20250316234410_OtherEntities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:44:10.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SaleStatus.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:05:18.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:04:37.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Seller.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Seller.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\Seller.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:02:32.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
-              "RelativeToolTip": "SalesWebMvc\\Models\\Department.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T20:11:32.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T20:46:52.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T20:43:32.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T20:19:36.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T20:19:21.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T20:19:18.781Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SalesWebMvcContext.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SalesWebMvcContext.cs",
-              "RelativeToolTip": "SalesWebMvc\\Data\\SalesWebMvcContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Title": "SeedingService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Data\\SeedingService.cs",
+              "RelativeToolTip": "SalesWebMvc\\Data\\SeedingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T20:11:18.509Z",
+              "WhenOpened": "2025-03-17T00:59:43.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T20:46:56.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
-              "RelativeDocumentMoniker": "SalesWebMvc\\appsettings.json",
-              "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
-              "RelativeToolTip": "SalesWebMvc\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T19:47:29.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
               "ToolTip": "C:\\Users\\lucas\\source\\repos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeToolTip": "SalesWebMvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:40:53.192Z"
+              "WhenOpened": "2025-03-16T16:40:53.192Z",
+              "EditorCaption": ""
             }
           ]
         }
